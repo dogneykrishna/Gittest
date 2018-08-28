@@ -2,5 +2,5 @@
 
 int main(){
 printf("hii this is krishna");
-printf("krishna loves nimisha");
+printf("krishna loves nimisha ray");
 }
